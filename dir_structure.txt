@@ -1,0 +1,22 @@
+.
+├── .DS_Store
+├── .Rhistory
+├── .snakemake
+├── alignment
+├── benchmarks
+├── config
+├── counts
+├── csvs
+├── dir_structure.txt
+├── envs
+├── figures
+├── logs
+├── quality-check
+├── raw_data
+├── reference
+├── reports
+├── scripts
+├── Snakefile
+└── trimmed
+
+16 directories, 4 files

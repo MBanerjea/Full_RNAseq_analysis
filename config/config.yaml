@@ -1,0 +1,78 @@
+samples:
+  WT_1A:
+    R1: "raw_data/WT_1A-R1.fastq.gz"
+    R2: "raw_data/WT_1A-R2.fastq.gz"
+  WT_1B:
+    R1: "raw_data/WT_1B-R1.fastq.gz"
+    R2: "raw_data/WT_1B-R2.fastq.gz"
+  WT_1C:
+    R1: "raw_data/WT_1C-R1.fastq.gz"
+    R2: "raw_data/WT_1C-R2.fastq.gz"
+  WT_2A:
+    R1: "raw_data/WT_2A-R1.fastq.gz"
+    R2: "raw_data/WT_2A-R2.fastq.gz"
+  WT_2B:
+    R1: "raw_data/WT_2B-R1.fastq.gz"
+    R2: "raw_data/WT_2B-R2.fastq.gz"
+  WT_2C:
+    R1: "raw_data/WT_2C-R1.fastq.gz"
+    R2: "raw_data/WT_2C-R2.fastq.gz"
+  WT_3A:
+    R1: "raw_data/WT_3A-R1.fastq.gz"
+    R2: "raw_data/WT_3A-R2.fastq.gz"
+  WT_3B:
+    R1: "raw_data/WT_3B-R1.fastq.gz"
+    R2: "raw_data/WT_3B-R2.fastq.gz"
+  WT_3C:
+    R1: "raw_data/WT_3C-R1.fastq.gz"
+    R2: "raw_data/WT_3C-R2.fastq.gz"
+  WT_4A:
+    R1: "raw_data/WT_4A-R1.fastq.gz"
+    R2: "raw_data/WT_4A-R2.fastq.gz"
+  WT_4B:
+    R1: "raw_data/WT_4B-R1.fastq.gz"
+    R2: "raw_data/WT_4B-R2.fastq.gz"
+  WT_4C:
+    R1: "raw_data/WT_4C-R1.fastq.gz"
+    R2: "raw_data/WT_4C-R2.fastq.gz"
+  rrp6_1A:
+    R1: "raw_data/RRP6_1A-R1.fastq.gz"
+    R2: "raw_data/RRP6_1A-R2.fastq.gz"
+  rrp6_1B:
+    R1: "raw_data/RRP6_1B-R1.fastq.gz"
+    R2: "raw_data/RRP6_1B-R2.fastq.gz"
+  rrp6_1C:
+    R1: "raw_data/RRP6_1C-R1.fastq.gz"
+    R2: "raw_data/RRP6_1C-R2.fastq.gz"
+  rrp6_2A:
+    R1: "raw_data/RRP6_2A-R1.fastq.gz"
+    R2: "raw_data/RRP6_2A-R2.fastq.gz"
+  rrp6_2B:
+    R1: "raw_data/RRP6_2B-R1.fastq.gz"
+    R2: "raw_data/RRP6_2B-R2.fastq.gz"
+  rrp6_2C:
+    R1: "raw_data/RRP6_2C-R1.fastq.gz"
+    R2: "raw_data/RRP6_2C-R2.fastq.gz"
+  rrp6_3A:
+    R1: "raw_data/RRP6_3A-R1.fastq.gz"
+    R2: "raw_data/RRP6_3A-R2.fastq.gz"
+  rrp6_3B:
+    R1: "raw_data/RRP6_3B-R1.fastq.gz"
+    R2: "raw_data/RRP6_3B-R2.fastq.gz"
+  rrp6_3C:
+    R1: "raw_data/RRP6_3C-R1.fastq.gz"
+    R2: "raw_data/RRP6_3C-R2.fastq.gz"
+  rrp6_4A:
+    R1: "raw_data/RRP6_4A-R1.fastq.gz"
+    R2: "raw_data/RRP6_4A-R2.fastq.gz"
+  rrp6_4B:
+    R1: "raw_data/RRP6_4B-R1.fastq.gz"
+    R2: "raw_data/RRP6_4B-R2.fastq.gz"
+  rrp6_4C:
+    R1: "raw_data/RRP6_4C-R1.fastq.gz"
+    R2: "raw_data/RRP6_4C-R2.fastq.gz"
+
+genome_index: "reference/index/genome"
+ref_genome: "reference/genome.fa"
+gtf: "reference/annot.gtf"
+envs: "env/rnaseq_env.yaml"
