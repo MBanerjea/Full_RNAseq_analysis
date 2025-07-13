@@ -16,7 +16,7 @@ Re-analysis of 24 yeast RNA-seq samples to investigate stabilization of snRNAs u
 - Snakemake ≥7.0  
 - HISAT2, SAMtools, FastQC, featureCounts  
 - R ≥4.2 with DESeq2, ggrepel, pheatmap  
-- Conda env spec: [`rnaseq_env.yaml`](envs/rnaseq_env.yaml)
+- Conda env spec: [`rnaseq_env.yaml`](/envs/rnaseq_env.yaml)
 
 ## 📦 Directory Structure
 <pre>
@@ -63,19 +63,19 @@ Both the analyses scripts are included in the original along with the removal of
 The outliers were identified in 2 modified PCA plots, with one plot having a standard approach with labels while another with a more colourful approach to identify the replicates.
 
 ### 🔬 PCA plot (before removing outlier)
-![PCA Plot](figures/PCA_with_outliers.jpg)
+![PCA Plot](/figures/PCA_with_outliers.jpg)
 
 ### 🔬 PCA plot (after removing outlier)
-![PCA Plot](figures/PCA_3_reps.jpg)
+![PCA Plot](/figures/PCA_3_reps.jpg)
 
 ### 🔬 PCA plot (identifying by labels)
-![PCA Plot](figures/PCA_labelled_reps.jpg)
+![PCA Plot](/figures/PCA_labelled_reps.jpg)
 
 ### 🔬 PCA plot (identifying by colour)
-![PCA Plot](figures/PCA_identify_reps.jpg)
+![PCA Plot](/figures/PCA_identify_reps.jpg)
 
 ### 🌋 Volcano plot highlighting snRNA stabilization
-![Volcano Plot](figures/Volcano_snR_only.jpg)
+![Volcano Plot](/figures/Volcano_snR_only.jpg)
 
 This approach preserved biological signal while ensuring technical reproducibility. The snRNA specific volcano plot revealed that majority of the snRNAs were upregukated significantly, thereby reinforcing the hypothesis that **RRP6 actively degrades mature snRNAs under normal conditions**.
 
