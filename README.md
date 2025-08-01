@@ -77,5 +77,5 @@ The outliers were identified in 2 modified PCA plots, with one plot having a sta
 ### 🌋 Volcano plot highlighting snRNA stabilization
 ![Volcano Plot](figures/Volcano_snR_only.jpeg)
 
-This approach preserved biological signal while ensuring technical reproducibility. The snRNA specific volcano plot revealed that majority of the snRNAs were upregukated significantly, thereby reinforcing the hypothesis that **RRP6 actively degrades mature snRNAs under normal conditions**.
+This approach preserved biological signal while ensuring technical reproducibility. The snRNA specific volcano plot revealed that majority of the snRNAs were upregulated significantly, thereby reinforcing the hypothesis that **RRP6 actively degrades mature snRNAs under normal conditions**.
 
